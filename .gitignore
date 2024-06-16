@@ -1,0 +1,15 @@
+.clangd
+.ycm_extra_conf.py
+compile_commands.json
+tests
+build/*
+watermelon
+TAGS
+TAGS*
+src/TAGS
+src/TAGS*
+watermelon.desktop
+.cache
+.cache/*
+src/.cache
+src/.cache/*
